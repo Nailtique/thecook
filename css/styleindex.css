@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(192, 192, 192);
+  }
+  
+  header nav ul li {
+       display: inline-block;
+      
+       
+   
+     background-color: rgb(177, 154, 154);
+     
+     border: 2px solid rgb(177, 154, 154);
+     padding: 10px 20px;
+     text-align: center;
+     text-decoration: none;
+     margin: 20px;
+     
+     
+  }
+   
+   li:hover, li:active {
+     background-color: white;
+     color: rgb(199, 98, 153);
+   }
+ 
+ .fixed{
+       width: 100%;
+       position: fixed;        
+     
+     
+   
+      height: 30mm;
+   }
+ 
+   
+ 
+ .coloumn {
+     column-count: 5;
+ }
+ 
+ 
+ 
+ 
+ table{
+   
+  font-family: Arial, Helvetica, sans-serif;
+  width: 70%;
+  border: 1px solid rgb(177, 154, 154);
+ 
+  margin-left: auto;
+   margin-right: auto;
+   font-family: Arial, Helvetica, sans-serif;
+ 
+ }
+ td, th{
+ 
+   color: rgb(199, 98, 153);
+ } */
+ 
+ td{
+  
+ 
+   text-align: center;
+ } 
+ 
+ footer{
+    background-color: white;
+    padding-bottom: 20px;
+ 
+     justify-content: space-between;
+      padding: 0em 3.15em;
+     
+  
+  
+  
+  }
